@@ -26,7 +26,7 @@ h2 {
   font-size: 55px;
 }
 
-h4 {
+h3 {
   font-size: 42px;
 }
 
@@ -35,6 +35,11 @@ p {
   font-weight: normal;
   font-size: 16px;
   line-height: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: var(--branding-color);
 }
 
 img {
@@ -66,7 +71,7 @@ img {
 }
 
 .content-container {
-  padding: 100px 20px;
+  padding: 80px 20px;
 }
 
 .content h1 {
@@ -175,7 +180,7 @@ footer .social-links a:hover {
 
   .content-container {
     text-align: center;
-    padding: 0;
+    padding: 20;
   }
   .project-descriptions {
     padding: 0;
